@@ -4,5 +4,5 @@ Dockerfile
 docker-compose.yml
 requirements.txt
 */Dockerfile
-*.webm
-launch.sh
+*/*.webm
+launch_docker.sh
