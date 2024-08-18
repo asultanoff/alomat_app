@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  /* Adjust the max-width to target different devices */
+  html,
+  body {
+    overflow: hidden;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
