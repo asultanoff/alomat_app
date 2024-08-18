@@ -3,6 +3,6 @@
 Dockerfile
 docker-compose.yml
 requirements.txt
-*/Dockerfile
-*/*.webm
+**/Dockerfile
+**/*.webm
 launch_docker.sh
